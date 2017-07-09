@@ -2,7 +2,7 @@
 To use public API you need to type simply requests: 
 
 ```
-https://beatcoin.pl/public/graphs/FirstcurrencySecondcurrency/periotoftime.json
+https://beatcoin.pl/public/graphs/FirstcurrencySecondcurrency/periodoftime.json
 ```
 
 For example: 
