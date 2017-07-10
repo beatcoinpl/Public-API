@@ -56,7 +56,7 @@ ZEC
 To use ticker just call 
 
 ```
-https://beatcoin.pl/public/graphs/ticker.json
+https://beatcoin.pl/public/graphs/FirstcurrencySecondcurrency/ticker.json
 ```
 
 
