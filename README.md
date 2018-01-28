@@ -56,8 +56,7 @@ ZEC
 To use ticker just call 
 
 ```
-https://beatcoin.pl/public/graphs/FirstcurrencySecondcurrency/ticker.json
-```
+https://coinbe.net/public/graphs/ticker/ticker.json```
 
 
 Ticker file shows you array of actual status of beatcoin markets.
